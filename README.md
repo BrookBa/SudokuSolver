@@ -1,5 +1,6 @@
 # SudokuSolver
-Written September 2016
+September 2016
+Side project
 
 This project is a sudoku solver. It uses 3 basic logical algorithms to solve the puzzle by either eliminating 
 from the array of possible values until it finds only one possible value to go in that cell, finding instances 
